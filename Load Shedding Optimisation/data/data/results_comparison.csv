@@ -1,3 +1,0 @@
-schedule,total_harm,worst_case_consecutive_outage_hours,mean_max_consecutive_outage_hours,critical_zone_unpowered_hours,critical_zone_total_hours,harm_reduction_vs_baseline_pct
-baseline_fixed_rotation,18113.6,4,4.0,12,96,
-optimized,6006.3,4,3.1,0,96,66.8
